@@ -2,15 +2,24 @@
 
 A new Flutter project.
 
-## Getting Started
+## Using
 
-This project is a starting point for a Flutter application.
+- Dart/Flutter
+- State Management (GetX)
+- SQLite
+- PHP & MySQL
+- Firebase
+- Google Map
 
-A few resources to get you started if this is your first Flutter project:
+## App Include
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Categories
+- Items
+- Cart
+- Favorite
+- Order tracking for each stage of live tracking (Google Map)
+- Rating
+- Coupon
+- Notifications
+- Payment methods with E wallet
+- Web admin in order to control the application (Responsive)
