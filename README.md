@@ -1,6 +1,6 @@
 # ecommerce_with_php
 
-A new Flutter project.
+![e-commerce-php-mockup](https://user-images.githubusercontent.com/78942298/227246959-1ee0fac5-7c72-41d9-adf0-dc0f3407fdf1.png)
 
 ## Using
 
